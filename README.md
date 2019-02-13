@@ -8,5 +8,5 @@ Desafio do site Kaggle para prever, dadas as características, quem sobreviveu a
 * **matplotlib**
 * **seaborn**  
   
-## Mais informação  
+## Mais informações  
 [Kaggle](https://www.kaggle.com/c/titanic)
